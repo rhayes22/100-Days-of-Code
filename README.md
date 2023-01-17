@@ -5,19 +5,28 @@ This section encompasses Days 1-5 and the work has been broken down in the follo
 
 # Day 1
 
-Basic Hello World HTML page.
+- General knowledge of a webpage.
+- What is a website.
+- Hello World Website.
 
 # Day 2
 
-Learning HTML and CSS basics.
+- Basic on-element CSS styling
+- HTML Elements and Attributes.
 
 # Day 3
 
-More exploring of CSS, nesting HTML elements, links, global CSS Styles, VS Code help.
+- Separating HTML file into head and body.
+- Global CSS styles.
+- Nested HTML elements.
 
 # Day 4
 
-More styling experience with fonts.
+- Editing hover property of anchor element.
+- Storing CSS in a separate file.
+- Void elements.
+- Multiple files & requests.
+- Working with fonts.
 
 # Day 5
 
