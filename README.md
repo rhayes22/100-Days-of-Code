@@ -30,4 +30,8 @@ This section encompasses Days 1-5 and the work has been broken down in the follo
 
 # Day 5
 
-Shared CSS Files, Images, adding a second HTML file.
+- Adding & Styling Images.
+- Setting page background.
+- Adding a second HTML file.
+- Using a shared CSS file.
+- Organizing source files in folders.
