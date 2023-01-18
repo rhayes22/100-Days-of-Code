@@ -1,7 +1,6 @@
-# 100-Days-of-Code-Section-2
+# 100-Days-of-Code
 
-This repository reflects the second section of the 100 Days of Web Development course.
-This section encompasses Days 1-5 and the work has been broken down in the following way:
+This repository will highlight my experience working through the 100 Days of Web Development course on Udemy.
 
 # Section 2: Building a First Website: HTML & CSS Basics
 
