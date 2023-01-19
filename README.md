@@ -41,6 +41,22 @@ This repository will highlight my experience working through the 100 Days of Web
 
 ## Day 6
 
+- Local Live Development Servers.
+- Understanding and Styling Lists.
+- Parents, Children, Containers, Cascading, and Inheritance.
+- Additional styling to the webpage.
+
 ## Day 7
 
+- The CSS Box Model.
+- HTML Layouts.
+- Selectors & Combinators.
+- Classes.
+- Block vs. Inline Elements.
+
 ## Day 8
+
+- Syling Block vs. Inline Elements.
+- Margin Collapsing.
+- The "box-shadow" property.
+- Styling Images & Negative Margins.
