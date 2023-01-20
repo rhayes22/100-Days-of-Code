@@ -4,9 +4,9 @@ h1 {
   margin: 12px 0px;
 }
 
-/* #description {
-  margin-bottom: 36px;
-} */
+#description {
+  margin: 12px 0;
+}
 
 /* header p {
   margin-bottom: 36px;
@@ -19,6 +19,8 @@ a {
   font-size: 24px;
   padding: 12px 48px;
   border: 1px solid rgb(167, 1, 78);
+  display: inline-block;
+  margin: 0;
 }
 
 a:hover {
@@ -38,6 +40,7 @@ li {
   border-radius: 6px;
   margin: 32px;
   padding: 16px;
+  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2);
 }
 
 h2 {

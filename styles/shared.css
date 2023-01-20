@@ -2,6 +2,7 @@ body {
   text-align: center;
   background-color: rgb(233, 215, 207);
   color: rgb(83, 75, 75);
+  margin: 50px;
 }
 
 h1 {
@@ -11,6 +12,7 @@ h1 {
 p {
   font-family: "Fira Sans", sans-serif;
   color: rgb(83, 75, 75);
+  font-size: 24px;
 }
 a {
   color: rgb(167, 1, 78);
