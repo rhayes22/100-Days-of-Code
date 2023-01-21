@@ -80,10 +80,6 @@ footer a:active {
   background-color: rgb(255, 186, 58);
 }
 
-.highlight {
-  font-weight: bold;
-}
-
 .important-point {
   color: rgb(255, 237, 177);
   border-color: rgb(247, 209, 85);
