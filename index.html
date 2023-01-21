@@ -5,7 +5,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@400;700&family=Oswald:wght@700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;900&display=swap"
       rel="stylesheet"
     />
     <!-- Linking CSS file to our HTML file -->
@@ -17,14 +17,17 @@
   </head>
   <!-- HTML Code for the Webpage -->
   <body>
-    <h1>HTML & CSS Basics Summary</h1>
-    <img src="images/html-css.png" alt="HTML and CSS logos" />
-    <div>
+    <header>
+      <h1>HTML & CSS Basics Summary</h1>
+      <img src="images/html-css.png" alt="HTML and CSS logos" />
+    </header>
+
+    <main>
       <h2>HTML Summary</h2>
       <p>
         HTML (HyperText Markup Language) is used to define our page content,
-        structure and meaning. You <span>don't</span> use it for styling
-        purposes. Use CSS for that instead!
+        structure and meaning. You <span class="highlight">don't</span> use it
+        for styling purposes. Use CSS for that instead!
       </p>
       <ul>
         <li class="important-point">
@@ -75,7 +78,13 @@
           >the MDN CSS property reference</a
         >.
       </p>
-      <a class>Download PDF Summary</a>
-    </div>
+    </main>
+
+    <footer>
+      <a href="html-css-basics-summary.pdf" target="_blank"
+        >Download PDF Summary</a
+      >
+      <p>(c) Ryan Hayes</p>
+    </footer>
   </body>
 </html>
