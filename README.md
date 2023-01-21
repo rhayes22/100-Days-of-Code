@@ -60,3 +60,14 @@ This repository will highlight my experience working through the 100 Days of Web
 - Margin Collapsing.
 - The "box-shadow" property.
 - Styling Images & Negative Margins.
+
+# Section 4: HTML & CSS - Practice & Summary
+
+## Day 9
+
+- Working through a project.
+
+## Day 10
+
+- Styling and Organizing the Project.
+- New HTML objects.
