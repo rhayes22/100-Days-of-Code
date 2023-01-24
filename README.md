@@ -71,3 +71,37 @@ This repository will highlight my experience working through the 100 Days of Web
 
 - Styling and Organizing the Project.
 - New HTML objects.
+
+# Section 5: Serving A Website (Hosting & Deployment)
+
+## Day 11
+
+- Learning about how to host a website.
+- Favicon
+- Relative and Absolute paths.
+
+# Section 6: Introducing Version Control with Git & GitHub
+
+## Day 11
+
+- What is Git?
+- What is GitHub?
+- Terminal crash course
+
+## Day 12
+
+- Installing Git.
+- Git Basics.
+- Initializing a repository.
+
+## Day 13
+
+- Branches, Merging & Merge Conflicts.
+- Deleting Branches & Commits.
+- Creating a GitHub account & a Remote Repository.
+
+## Day 14
+
+- Personal Access Token & git clone.
+- Collaborators & Organizations.
+- Forks & Pull Requests.
