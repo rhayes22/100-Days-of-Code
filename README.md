@@ -105,3 +105,46 @@ This repository will highlight my experience working through the 100 Days of Web
 - Personal Access Token & git clone.
 - Collaborators & Organizations.
 - Forks & Pull Requests.
+
+# Section 7: HTML & CSS Layouts & Positioning
+
+## Day 15
+
+- Project Setup.
+- Landing page structure.
+- Page Logo.
+- Page Navigation.
+- CSS Flexbox.
+
+## Day 16
+
+- Adding Flexbox to our project.
+- Positioning elements.
+- Styling hero content.
+- Fixed vs Absolute positioning.
+
+## Day 17
+
+- Working with % units.
+- Top navigation bar.
+- "Highlights" section.
+- Continue work on the project.
+- "object-fit" & Styling text.
+
+## Day 18
+
+- Continue work on the project.
+- Card content.
+- "position: static"
+
+## Day 19
+
+- "overflow"
+- Creating cards.
+- CSS Grid.
+- Understanding the "nth-type" selector & "grid-template-columns"
+
+## Day 20
+
+- Working with Unicode UTF-8
+- Finish project.
