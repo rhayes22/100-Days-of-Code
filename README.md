@@ -148,3 +148,37 @@ This repository will highlight my experience working through the 100 Days of Web
 
 - Working with Unicode UTF-8
 - Finish project.
+
+# Section 8: Understanding Responsive Web Design
+
+## Day 20
+
+- Project overview.
+- Creating the HTML structure.
+
+## Day 21
+
+- Stying header and main sections.
+- What is responsive design?
+- The problem with Pixels.
+- Introducing "em" and "rem".
+
+## Day 22
+
+- Applying "em" and "rem".
+- Deep dive: "em" and "rem" vs "%".
+- Updating Our project.
+- Desktop vs Mobile First Design.
+- Understanding Media Queries.
+
+## Day 23
+
+- Adding Media Queries.
+- Side Drawer & Hamburger Icon.
+- Understanding HTML Fragments.
+
+## Day 24
+
+- Understanding the Target Selector.
+- Finishing Side Drawer.
+- "z-index" property.
