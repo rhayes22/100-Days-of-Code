@@ -182,3 +182,20 @@ This repository will highlight my experience working through the 100 Days of Web
 - Understanding the Target Selector.
 - Finishing Side Drawer.
 - "z-index" property.
+
+# Section 9: Creating Beautiful Websites
+
+## Day 24
+
+- Module Introduction
+- Sizing & Spacing
+- Choosing the Right Font
+- The Important of Grey, Primary, and Accent Colors
+
+## Day 25
+
+- CSS Variables/Custom Properties
+- "root" vs "html" vs "\*" selectors
+- CSS Transformations
+- CSS Transitions
+- Working with SVGs
