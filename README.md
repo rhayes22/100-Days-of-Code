@@ -199,3 +199,31 @@ This repository will highlight my experience working through the 100 Days of Web
 - CSS Transformations
 - CSS Transitions
 - Working with SVGs
+
+# Section 10: Adding Forms to Websites
+
+## Day 26
+
+- Module Intro
+- Important HTML elements
+- Form Intro
+
+## Day 27
+
+- Styling Form Element
+- Adding Labels
+- Understanding Different Input Types
+- Emails, Numbers, Password, and Date Types
+- Working with Radio Buttons
+
+## Day 28
+
+- Using Checkboxes
+- Textarea Element
+- Adding a Dropdown
+- Structuring Forms
+- Validation Attributes
+
+## Day 29
+
+- Forms Challenge
