@@ -1,0 +1,11 @@
+{
+  "folders": [
+	{
+		"name": "100-Days-of-Code-1",
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "100-Days-of-Code-1"
+  }
+}
