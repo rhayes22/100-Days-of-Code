@@ -12,37 +12,41 @@
       <h1>Contact Us</h1>
     </header>
     <main>
-      <form action="">
+      <form action="/" method="GET" { }>
         <section>
           <h2>How can we help you?</h2>
           <ul>
             <li>
               <label for="user-name">Your Name</label>
-              <input type="text" id="user-name" name="user-name" />
+              <input type="text" id="user-name" name="user-name" required />
             </li>
             <li>
               <label for="user-email">Your E-Mail Address</label>
-              <input type="email" id="user-email" name="user-email" />
+              <input type="email" id="user-email" name="user-email" required />
             </li>
             <li>
               <label for="user-phone">Your Phone Number</label>
-              <input
-                type="number"
-                id="user-phone"
-                name="user-phone"
-                min="10"
-                max="10"
-              />
+              <input type="tel" id="user-phone" name="user-phone" required />
             </li>
             <li>
               <label for="message">Your Message</label>
-              <textarea name="message" id="message" rows="8"></textarea>
+              <textarea
+                name="message"
+                id="message"
+                rows="8"
+                required
+              ></textarea>
             </li>
+          </ul>
+        </section>
+        <section>
+          <ul>
             <li>
               <label for="find-us">How did you find us?</label>
-              <select name="find-us" id="find-us">
-                <option value="">Web Search</option>
-                <option value="">Word of Mouth</option>
+              <select name="find-us" id="find-us" required>
+                <option value="search">Web Search</option>
+                <option value="word-of-mouth">Word of Mouth</option>
+                <option value="other">Other</option>
               </select>
             </li>
           </ul>
@@ -51,28 +55,51 @@
         <section>
           <h2>How should we reply?</h2>
           <ul>
-            <li>
-              <input type="radio" id="reply" name="reply" />
-              <label for="">Call me</label>
+            <li class="inline-control">
+              <input
+                type="radio"
+                id="reply-call"
+                name="reply"
+                value="call"
+                required
+              />
+              <label for="reply-call">Call me</label>
             </li>
-            <li>
-              <input type="radio" id="reply" name="reply" />
-              <label for="">Send me an email</label>
+            <li class="inline-control">
+              <input
+                type="radio"
+                id="reply-email"
+                name="reply"
+                value="email"
+                required
+              />
+              <label for="reply-email">Send me an email</label>
             </li>
-            <li>
-              <input type="radio" id="reply" name="reply" />
-              <label for="">Don't reply</label>
+            <li class="inline-control">
+              <input
+                type="radio"
+                id="reply-none"
+                name="reply"
+                value="none"
+                required
+              />
+              <label for="reply-none">Don't reply</label>
             </li>
           </ul>
         </section>
 
         <section>
           <ul>
-            <li>
-              <input type="checkbox" />
+            <li class="inline-control">
+              <input type="checkbox" required />
               <label for="">Accept Terms</label>
             </li>
           </ul>
+        </section>
+
+        <section id="form-actions">
+          <button type="reset" class="btn-empty">Clear</button>
+          <button class="btn-filled">Submit</button>
         </section>
       </form>
     </main>
