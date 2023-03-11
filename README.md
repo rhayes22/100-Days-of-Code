@@ -227,3 +227,36 @@ This repository will highlight my experience working through the 100 Days of Web
 ## Day 29
 
 - Forms Challenge
+
+# Section 11: Understanding the JavaScript Basics
+
+## Day 30
+
+- script HTML element.
+- Working with values and basic JS commands
+- Variables
+- Syntax
+- Using external files
+- Arrays
+- Objects
+
+## Day 31
+
+- Splitting code across multiple lines
+- Accessing object properties
+- Performing operations
+- Custom commands
+- Functions & Variables
+- Returning values in functions
+- Parameters
+
+## Day 32
+
+- Methods
+- console.log()
+- Math operations & different types of values
+- String operations
+
+## Day 33
+
+- Array operations
