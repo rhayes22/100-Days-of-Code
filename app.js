@@ -6,3 +6,4 @@ let job = {
   place: "New York",
   salary: 50000,
 };
+console.log(age);
