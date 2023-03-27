@@ -260,3 +260,31 @@ This repository will highlight my experience working through the 100 Days of Web
 ## Day 33
 
 - Array operations
+
+# Section 12: Advanced JavaScript: Working with the DOM
+
+## Day 33
+
+- Global "window" & "document" Objects
+- The DOM
+- DOM Tree & DOM Traversal
+
+## Day 34
+
+- Drilling into the DOM
+- Searching the DOM
+- Querying Elements
+- Inserting New HTML Elements via JavaScript
+
+## Day 35
+
+- Deleting DOM Elements
+- Moving Existing Elements Around
+- Working with "innerHTML"
+- Events & Handling them
+
+## Day 36
+
+- Constants
+- Changing Element Styles with JavaScript
+- Managing CSS Classes with JavaScript
