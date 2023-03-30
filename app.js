@@ -1,8 +1,3 @@
-let age = 32;
-let userName = "Max";
-let hobbies = ["Sports", "Cooking", "Reading"];
-let job = {
-  title: "Developer",
-  place: "New York",
-  salary: 50000,
-};
+// console.dir(document);
+
+document.body.children[1].children[0].href = "https://www.google.com";
