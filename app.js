@@ -18,3 +18,14 @@ let firstParagraph = document.querySelector("p");
 // 3. Insert the new element into the parent element content
 
 firstParagraph.append(newAnchor);
+
+// REMOVE ELEMENTS
+let firstH1Element = document.querySelector("h1");
+
+firstH1Element.remove();
+
+// MOVE ELEMENTS
+firstParagraph.parentElement.append(firstParagraph);
+
+// innerHTML
+firstParagraph.innerHTML = "Hi! This is <strong>important!</strong>";
