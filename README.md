@@ -288,3 +288,21 @@ This repository will highlight my experience working through the 100 Days of Web
 - Constants
 - Changing Element Styles with JavaScript
 - Managing CSS Classes with JavaScript
+
+# Section 13: Advanced JavaScript Control Structures
+
+## Day 37
+
+- Getting Started with Control Structures
+- Booleans & Comparison Operators
+
+## Day 38
+
+- Truthy & Falsy
+- Loops
+- For loops
+- While loop
+
+## Day 39
+
+- Practice & Wrap up
